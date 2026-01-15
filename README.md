@@ -738,18 +738,6 @@ Untuk improvement atau issue, silakan buat issue atau pull request di repository
 
 ---
 
-## 📄 License
-
-Project ini tersedia untuk internal use. Untuk menggunakan atau mereplikasi, silakan contact tim development.
-
----
-
-## 👥 Author & Contact
-
-**Created by**: [Your Name/Team]  
-**Last Updated**: January 15, 2026  
-**Email**: [your-email@company.com]
-
 ---
 
 **Happy analyzing! 📊 Semoga dashboard ini membantu mengidentifikasi top performers dan improve customer satisfaction! 🎉**
